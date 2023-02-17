@@ -157,7 +157,9 @@
                     </h1>
                 </div>
                 <div class="col-lg-4 my-auto text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
-                    <a href="#" class="btn btn-info btn-lg text-uppercase display-1">¡Contáctanos!</a>
+                    <a href="#contacto" class="anchor btn btn-info btn-lg text-uppercase display-1">
+						¡Contáctanos!
+					</a>
                 </div>
             </div>
         </div>
@@ -285,7 +287,7 @@
                     <p class="text-uppercase">
                         Únete a la familia Tenere.
                     </p>
-                    <a href="#" class="btn btn-info btn-lg text-uppercase display-1">
+                    <a href="#contacto" class="anchor btn btn-info btn-lg text-uppercase display-1">
                         ¡Contáctanos!
                     </a>
                 </div>
