@@ -10,27 +10,27 @@
                             <nav>
                                 <ul class="list-unstyled">
                                     <li>
-                                        <a href="#">
+                                        <a href="<?php echo esc_url( home_url() ); ?>">
                                             Inicio
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#nosotros<?php else: ?>#nosotros<?php endif; ?>">
                                             Nosotros
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#nuestros-servicios<?php else: ?>#nuestros-servicios<?php endif; ?>">
                                             Servicios
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#blog<?php else: ?>#blog<?php endif; ?>">
                                             Blog
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#podcast<?php else: ?>#podcast<?php endif; ?>">
                                             Podcast
                                         </a>
                                     </li>
@@ -40,7 +40,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="<?php echo esc_url( get_page_link( 3 ) ); ?>">
                                             Política
                                         </a>
                                     </li>
