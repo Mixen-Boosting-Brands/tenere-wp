@@ -80,11 +80,11 @@
             </div>
             <div id="contacto-menu">
                 <ul class="list-unstyled">
-                    <li>
+                    <!-- li>
                         <i class="far fa-envelope"></i> <a href="mailto:cmail@domain.com">mail@domain.com</a>
-                    </li>
+                    </li -->
                     <li>
-                        <i class="fas fa-phone"></i> <a href="tel:+526141234567">(614) 123 4567</a>
+                        <i class="fas fa-phone"></i> <a href="tel:+526143970559"><i class="fa-solid fa-phone"></i>(614) 3970559</a>
                     </li>
                 </ul>
             </div>
