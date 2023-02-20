@@ -22,9 +22,13 @@
 				</a>
 				<?php html5wp_excerpt( 'html5wp_index' ); ?>
 
-				<a href="<?php the_permalink(); ?>" class="btn btn-secondary rounded-pill">
+				<a href="<?php the_permalink(); ?>" class="btn btn-secondary rounded-pill d-block">
 					Leer más
 				</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
 				<?php edit_post_link(); ?>
 			</div>
 		</div>
