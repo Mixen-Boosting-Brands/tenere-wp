@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<section class="interna">
+<section class="interna blog">
 	<div class="container">
 		<div class="row mb-5">
 			<div class="col-12 text-center">
@@ -21,6 +21,10 @@
 					<h2><?php the_title(); ?></h2>
 				</a>
 				<?php html5wp_excerpt( 'html5wp_index' ); ?>
+
+				<a href="<?php the_permalink(); ?>" class="btn btn-secondary rounded-pill">
+					Leer más
+				</a>
 				<?php edit_post_link(); ?>
 			</div>
 		</div>
