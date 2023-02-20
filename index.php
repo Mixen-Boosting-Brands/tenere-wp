@@ -174,21 +174,31 @@
                 </div>
             </div>
             <div class="row mb-5" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1500">
+            <?php
+                $query = new WP_Query( 
+                    array( 
+                        'cat' => 3,
+                        'posts_per_page' => 3
+                    ) 
+                );
+
+                if ($query->have_posts()): while ($query->have_posts()) :$query-> the_post();
+            ?>
                 <div class="col-lg-4 mb-4 mb-lg-0">
                     <div class="row post">
                         <div class="col-5 my-auto">
-                            <a href="#">
+                            <a href="<?php the_permalink(); ?>">
                                 <figure>
-                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/thumb-podcast.png" alt="" class="img-fluid">
+                                    <?php the_post_thumbnail('custom-thumb', array('class' => 'img-fluid')); ?>
                                 </figure>
                             </a>
                         </div>
                         <div class="col-7 my-auto">
-                            <a href="#">
-                                <h1>Título</h1>
+                            <a href="<?php the_permalink(); ?>">
+                                <h1><?php the_title(); ?></h1>
                             </a>
                             <p class="text-small text-uppercase">
-                                10/02/2023
+                                <?php the_date(); ?>
                             </p>
                             <ul class="list-inline">
                                 <li class="list-inline-item">
@@ -197,7 +207,7 @@
                                     </span>
                                 </li>
                                 <li class="list-inline-item">
-                                    <a href="#" class="btn btn-secondary rounded-pill">
+                                    <a href="<?php the_permalink(); ?>" class="btn btn-secondary rounded-pill">
                                         Escuchar
                                     </a>
                                 </li>
@@ -205,68 +215,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mb-lg-0">
-                    <div class="row post">
-                        <div class="col-5 my-auto">
-                            <a href="#">
-                                <figure>
-                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/thumb-podcast.png" alt="" class="img-fluid">
-                                </figure>
-                            </a>
-                        </div>
-                        <div class="col-7 my-auto">
-                            <a href="#">
-                                <h1>Título</h1>
-                            </a>
-                            <p class="text-small text-uppercase">
-                                10/02/2023
-                            </p>
-                            <ul class="list-inline">
-                                <li class="list-inline-item">
-                                    <span class="icon">
-                                        <i class="fa-solid fa-microphone"></i>
-                                    </span>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#" class="btn btn-secondary rounded-pill">
-                                        Escuchar
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 mb-4 mb-lg-0">
-                    <div class="row post">
-                        <div class="col-5 my-auto">
-                            <a href="#">
-                                <figure>
-                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/thumb-podcast.png" alt="" class="img-fluid">
-                                </figure>
-                            </a>
-                        </div>
-                        <div class="col-7 my-auto">
-                            <a href="#">
-                                <h1>Título</h1>
-                            </a>
-                            <p class="text-small text-uppercase">
-                                10/02/2023
-                            </p>
-                            <ul class="list-inline">
-                                <li class="list-inline-item">
-                                    <span class="icon">
-                                        <i class="fa-solid fa-microphone"></i>
-                                    </span>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#" class="btn btn-secondary rounded-pill">
-                                        Escuchar
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+                <?php endwhile; ?>
+                <?php else : ?>
+                <?php endif; ?>
+                <?php wp_reset_postdata(); ?>
             </div>
             <div class="row" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="2000">
                 <div class="col text-center">
