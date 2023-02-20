@@ -198,7 +198,7 @@
                                 <h1><?php the_title(); ?></h1>
                             </a>
                             <p class="text-small text-uppercase">
-                                <?php echo get_the_date('j F Y'); ?>
+                                <?php echo get_the_date('j F, Y'); ?>
                             </p>
                             <ul class="list-inline">
                                 <li class="list-inline-item">
