@@ -111,7 +111,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-6 col-lg-3 my-auto">
-                    <a href="#">
+                    <a href="<?php echo esc_url( home_url() ); ?>">
                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo.webp" alt="" class="logo img-fluid" id="logo-navbar">
                     </a>
                 </div>
