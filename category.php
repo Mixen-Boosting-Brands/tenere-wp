@@ -17,14 +17,21 @@
 				</a>
 			</div>
 			<div class="col-7 my-auto">
-				<a href="<?php the_permalink(); ?>">
-					<h2><?php the_title(); ?></h2>
-				</a>
-				<?php html5wp_excerpt( 'html5wp_index' ); ?>
-
-				<a href="<?php the_permalink(); ?>" class="btn btn-secondary rounded-pill d-inline-block mt-4">
-					Leer más
-				</a>
+				<div class="row mb-3">
+					<div class="col">
+						<a href="<?php the_permalink(); ?>">
+							<h2><?php the_title(); ?></h2>
+						</a>
+						<?php html5wp_excerpt( 'html5wp_index' ); ?>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<a href="<?php the_permalink(); ?>" class="btn btn-secondary rounded-pill">
+							Leer más
+						</a>
+					</div>
+				</div>
 			</div>
 		</div>
 	<?php endwhile; ?>
