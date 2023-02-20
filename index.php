@@ -283,7 +283,7 @@
                             <?php echo get_the_date('j F, Y'); ?>
                             </p>
                             <p class="text-small">
-                                <?php html5wp_excerpt('html5wp_blog') ?>
+                                <?php html5wp_excerpt('html5wp_blog'); ?>
                             </p>
                             <ul class="list-inline">
                                 <li class="list-inline-item">

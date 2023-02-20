@@ -263,7 +263,7 @@ function html5wp_custom_post( $length ) {
 }
 
 // Create 5 Word Callback for Index page Excerpts, call using html5wp_excerpt('html5wp_blog');
-function html5wp_index( $length ) {
+function html5wp_blog( $length ) {
     return 5;
 }
 
