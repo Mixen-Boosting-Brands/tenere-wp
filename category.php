@@ -8,7 +8,7 @@
 			</div>
 		</div>
 	<?php if (have_posts()): while (have_posts()) : the_post(); ?>
-		<div class="row">
+		<div class="row mb-4">
 			<div class="col-4 my-auto">
 				<figure>
 					<?php the_post_thumbnail('large', array('class' => 'img-fluid')); ?>
