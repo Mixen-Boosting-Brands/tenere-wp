@@ -9,14 +9,14 @@
 		</div>
 	<?php if (have_posts()): while (have_posts()) : the_post(); ?>
 		<div class="row post mb-4">
-			<div class="col-5 my-auto text-center">
+			<div class="col-12 col-sm-5 my-auto text-center">
 				<a href="<?php the_permalink(); ?>">
 					<figure>
 						<?php the_post_thumbnail('large', array('class' => 'img-fluid')); ?>
 					</figure>
 				</a>
 			</div>
-			<div class="col-7 my-auto">
+			<div class="col-12 col-sm-7 my-auto">
 				<div class="row mb-3">
 					<div class="col">
 						<a href="<?php the_permalink(); ?>">
