@@ -8,7 +8,7 @@
 			</div>
 		</div>
 	<?php if (have_posts()): while (have_posts()) : the_post(); ?>
-		<div class="row mb-4">
+		<div class="row post mb-4">
 			<div class="col-5 my-auto text-center">
 				<a href="<?php the_permalink(); ?>">
 					<figure>
