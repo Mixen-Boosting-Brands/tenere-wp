@@ -771,6 +771,10 @@ header#navbar {
     }
 }
 
+.interna {
+    padding: 100px 0;
+}
+
 footer {
     @include background('../images/bg-azul.png', center, cover);
     color: $text-white;
