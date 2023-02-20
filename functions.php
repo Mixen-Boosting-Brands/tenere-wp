@@ -262,6 +262,11 @@ function html5wp_custom_post( $length ) {
     return 40;
 }
 
+// Create 5 Word Callback for Index page Excerpts, call using html5wp_excerpt('html5wp_blog');
+function html5wp_index( $length ) {
+    return 5;
+}
+
 // Create the Custom Excerpts callback
 function html5wp_excerpt( $length_callback = '', $more_callback = '' ) {
     global $post;
