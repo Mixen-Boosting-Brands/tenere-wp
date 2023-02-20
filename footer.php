@@ -176,7 +176,7 @@
         </div>
     </footer>
 
-    <a href="https://wa.me/52614?text=Hola%20FOO%20BAR,%20necesito%20información." class="whatsapp" target="_blank">
+    <a href="https://wa.me/526143970559?text=Hola%20Tenere,%20necesito%20información." class="whatsapp" target="_blank">
         <i class="fab fa-whatsapp whatsapp-icon"></i>
     </a>
 
