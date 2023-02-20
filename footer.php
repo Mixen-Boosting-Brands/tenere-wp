@@ -35,6 +35,11 @@
                                         </a>
                                     </li>
                                     <li>
+                                        <a href="<?php echo esc_url( get_page_link( 7 ) ); ?>">
+                                            Asesores
+                                        </a>
+                                    </li>
+                                    <li>
                                         <a class="anchor" href="#contacto">
                                             Contacto
                                         </a>

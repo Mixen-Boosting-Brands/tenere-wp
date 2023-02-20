@@ -48,6 +48,22 @@
                     <li>
                         <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> id="btn-nav-3" href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#nuestros-servicios<?php else: ?>#nuestros-servicios<?php endif; ?>">Servicios</a>
                     </li>
+                    <li>
+                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> id="btn-nav-4" href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#blog<?php else: ?>#blog<?php endif; ?>">Blog</a>
+                    </li>
+                    <li>
+                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> id="btn-nav-5" href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#podcast<?php else: ?>#podcast<?php endif; ?>">Podcast</a>
+                    </li>
+                    <li>
+                        <a id="btn-nav-6" href="<?php echo esc_url( get_page_link( 7 ) ); ?>">
+                            Asesores
+                        </a>
+                    </li>
+                    <li>
+                        <a id="btn-nav-7" class="anchor" href="#contacto">
+                            Contacto
+                        </a>
+                    </li>
                 </ul>
             </nav>
             <a href="https://calendly.com/teneremx" class="anchor btn btn-primary" id="btn-contacto">
