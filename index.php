@@ -222,7 +222,7 @@
             </div>
             <div class="row" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="2000">
                 <div class="col text-center">
-                    <a href="#" class="ver-mas">
+                    <a href="<?php echo get_category_link( 3 ); ?>" class="ver-mas">
                         Ver más <i class="fa-solid fa-caret-down"></i>
                     </a>
                 </div>
@@ -307,7 +307,7 @@
             </div>
             <div class="row" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">
                 <div class="col text-center">
-                    <a href="#" class="ver-mas">
+                    <a href="<?php echo get_category_link( 2 ); ?>" class="ver-mas">
                         Ver más <i class="fa-solid fa-caret-down"></i>
                     </a>
                 </div>
