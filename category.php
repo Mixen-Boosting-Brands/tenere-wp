@@ -2,8 +2,8 @@
 
 <section class="interna">
 	<div class="container">
-		<div class="row">
-			<div class="col-12">
+		<div class="row mb-5">
+			<div class="col-12 text-center">
 				<h1><?php esc_html_e( '', 'html5blank' ); single_cat_title(); ?></h1>
 			</div>
 		</div>
@@ -15,15 +15,7 @@
 				</figure>
 			</div>
 			<div class="col-6 my-auto">
-				<h1><?php the_title(); ?></h1>
-				<ul class="list-inline">
-					<li class="list-inline-item">
-						<p><?php esc_html_e( 'Por ', 'html5blank' ); the_author(); ?></p>
-					</li>
-					<li class="list-inline-item">
-						<p><?php the_date(); ?> <?php the_time(); ?></p>
-					</li>
-				</ul>
+				<h2><?php the_title(); ?></h2>
 				<?php html5wp_excerpt( 'html5wp_index' ); ?>
 				<?php edit_post_link(); ?>
 			</div>
