@@ -10,12 +10,16 @@
 	<?php if (have_posts()): while (have_posts()) : the_post(); ?>
 		<div class="row mb-4">
 			<div class="col-5 my-auto text-center">
-				<figure>
-					<?php the_post_thumbnail('large', array('class' => 'img-fluid')); ?>
-				</figure>
+				<a href="<?php the_permalink(); ?>">
+					<figure>
+						<?php the_post_thumbnail('large', array('class' => 'img-fluid')); ?>
+					</figure>
+				</a>
 			</div>
 			<div class="col-7 my-auto">
-				<h2><?php the_title(); ?></h2>
+				<a href="<?php the_permalink(); ?>">
+					<h2><?php the_title(); ?></h2>
+				</a>
 				<?php html5wp_excerpt( 'html5wp_index' ); ?>
 				<?php edit_post_link(); ?>
 			</div>
