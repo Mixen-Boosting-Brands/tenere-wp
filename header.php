@@ -83,12 +83,12 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="https://tiktok.com/teneremx" target="_blank">
+                        <a href="https://www.tiktok.com/@tenere_mx" target="_blank">
                             <i class="fab fa-tiktok"></i>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="https://linkedin.com/teneremx" target="_blank">
+                        <a href="https://www.linkedin.com/in/luisa-karelly-robles-hernandez-7b5b709b/" target="_blank">
                             <i class="fab fa-linkedin"></i>
                         </a>
                     </li>
