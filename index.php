@@ -131,14 +131,14 @@
                         <div class="col-lg-6 mb-4 mb-lg-0" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">
                             <h2 id="titulo-personas" class="titulo text-uppercase">Personas</h2>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, laboriosam laborum facere provident nobis at asperiores veniam dignissimos reiciendis, repudiandae molestiae officia repellat recusandae est? Debitis ex hic ratione natus.</p>
-                            <a href="#" class="ver-mas">
+                            <a href="<?php echo get_page_link( 28 ); ?>" class="ver-mas">
                                 Ver más <i class="fa-solid fa-caret-right"></i>
                             </a>
                         </div>
                         <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1200">
                             <h2 id="titulo-empresas" class="titulo text-uppercase">Empresas</h2>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, laboriosam laborum facere provident nobis at asperiores veniam dignissimos reiciendis, repudiandae molestiae officia repellat recusandae est? Debitis ex hic ratione natus.</p>
-                            <a href="#" class="ver-mas">
+                            <a href="<?php echo get_page_link( 30 ); ?>" class="ver-mas">
                                 Ver más <i class="fa-solid fa-caret-right"></i>
                             </a>
                         </div>
