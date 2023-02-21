@@ -8,7 +8,7 @@
                         ¡Gracias por confiar en nosotros!
                     </h1>
                     <p class="text-uppercase" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
-                        Te invitamos a contestar el siguiente formulario.
+                        Conoce más sobre los beneficios de un negocio rentable y heredable.
                     </p>
                     <a href="https://forms.gle/RqsWwsVatuo1RhET8"
                         class="btn btn-info btn-lg text-uppercase display-1"
@@ -17,7 +17,7 @@
                         data-aos-delay="1000"
                         terget="_blank"
                     >
-                        Formulario
+                        Quiero ser asesor
                     </a>
                 </div>
             </div>
