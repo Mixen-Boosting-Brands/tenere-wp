@@ -55,10 +55,17 @@
                     </div>
                 </div>
                 <div class="col-lg-4 order-lg-2 mb-4 mb-lg-0">
+                    <a
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSdTPRpkGKhiFPL9S18IOGGN4gYZpkx7IU8m--Tt5wrUY4JnMQ/viewform"
+                        class="btn btn-primary btn-lg"
+                        target="_blank"
+                    >
+                        Contáctanos
+                    </a>
                     <!-- Aquí se inyecta feedback a usuario vía Ajax -->
-                    <div id="form-messages"></div>
+                    <!-- div id="form-messages"></div -->
                     <!-- /Aquí se inyecta feedback a usuario vía Ajax -->
-                    <form data-aos="fade-up" data-aos-duration="1000" action="<?php echo esc_url( get_template_directory_uri() ); ?>/mailer.php" method="POST" class="row g-3 needs-validation contact-form mb-4 mb-lg-0" id="ajax-contact" novalidate>
+                    <!-- form data-aos="fade-up" data-aos-duration="1000" action="<?php echo esc_url( get_template_directory_uri() ); ?>/mailer.php" method="POST" class="row g-3 needs-validation contact-form mb-4 mb-lg-0" id="ajax-contact" novalidate>
                         <div class="row">
                             <div class="col-md-6 form-floating">
                                 <input type="text" class="form-control shadow-none" id="nombre" name="nombre" placeholder="Nombre*"
@@ -110,7 +117,7 @@
                                 </div>
                             </div>
                         </div>
-                    </form>
+                    </form -->
                 </div>
                 <div class="col-lg-4 order-lg-1">
                     <div class="row mb-4" data-aos="fade-up" data-aos-duration="1000">
