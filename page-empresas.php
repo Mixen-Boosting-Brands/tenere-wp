@@ -14,7 +14,7 @@
                                 Protege la vida  de personas clave en tu negocio, crea un ahorro para su retiro y blínda su productividad ante una invalidez.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -31,7 +31,7 @@
                                 Dale a tus empleados la mejor atención, disminuye tu rotación y protege a los tuyos.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -48,7 +48,7 @@
                                 Tus colaboradores son importantes, dales la tranquilidad de que los estás protegiendo. 
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -65,7 +65,7 @@
                                 No pongas en riesgo tu patrimonio blíndate ante cualquier accidente. ¡Incluye tu póliza de Responsabilidad Civil!
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>

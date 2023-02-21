@@ -14,7 +14,7 @@
                                 Protege a ti y a tu familia ante accidentes y enfermedades. Además de obtener beneficios exclusivos en tu maternidad, servicio dental, asistencia psicologíca y más.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -31,7 +31,7 @@
                                 Deja protegidos a los que amas y crea una estrategia para tu legado.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -48,7 +48,7 @@
                                 ¿Que sucedería si hoy no pudieras continuar trabajando? Blinda tus planes y tu patrimonio.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -65,7 +65,7 @@
                                 ¿Universidad en el extranjero? ¿Que quieres para el futuro de tus hijos? Estamos seguros que lo mejor. Planea la educación de tus hijos. Dales la universidad de primera que se merecen, podemos ayudarte a hacerlo realidad.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -82,7 +82,7 @@
                                 Estrategias de retiro para que vivas esa etapa tal como la sueñas, adaptadas a tus necesidades.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -99,7 +99,7 @@
                                 Platicame tus metas y creamos un plan para lograrlas.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -116,7 +116,7 @@
                                 Protege tu patrimonio ante cualquier eventualidad. Desde una caida accidental de tu computadora hasta un incendio fatal.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
@@ -133,7 +133,7 @@
                                 Alternativas de inversión personalizadas según tus metas, asesoría en gestión de riesgo. Maximícemos tus ganancias sin poner en riesgo tu patrimonio.
                             </p>
                         </div>
-                        <a href="#" class="btn btn-primary rounded-pill">
+                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
                             Cotizar
                         </a>
                     </div>
