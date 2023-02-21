@@ -54,10 +54,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 order-lg-2 mb-4 mb-lg-0">
+                <div class="col-lg-4 order-lg-2 mb-4 mb-lg-0 my-auto">
                     <a
                         href="https://docs.google.com/forms/d/e/1FAIpQLSdTPRpkGKhiFPL9S18IOGGN4gYZpkx7IU8m--Tt5wrUY4JnMQ/viewform"
-                        class="btn btn-primary btn-lg"
+                        class="btn btn-primary btn-lg d-block"
                         target="_blank"
                     >
                         Contáctanos
