@@ -169,7 +169,7 @@
         </div>
     </section>
 
-    <section id="podcast" class="blog">
+    <!-- section id="podcast" class="blog">
         <div class="container">
             <div class="row mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">
                 <div class="col">
@@ -232,7 +232,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section -->
 
     <section class="descanso-alt">
         <div class="container">
@@ -255,7 +255,7 @@
         </div>
     </section>
 
-    <section id="blog" class="blog">
+    <!-- section id="blog" class="blog">
         <div class="container">
             <div class="row mb-4" data-aos="fade-up" data-aos-duration="1000">
                 <div class="col">
@@ -321,13 +321,13 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section -->
 
     <section class="descanso-alt-2">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 my-auto text-center" data-aos="fade-up" data-aos-duration="1000">
-                    <h1>Síguenos en redes</h1>
+                    <h1>Sigue nuestras redes sociales</h1>
                 </div>
                 <div class="col-lg-4 my-auto text-center text-lg-start" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
                     <ul class="list-inline social mb-0">
@@ -339,6 +339,16 @@
                         <li class="list-inline-item">
                             <a href="https://facebook.com/teneremx" target="_blank">
                                 <i class="fa-brands fa-facebook-f"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://www.tiktok.com/@tenere_mx" target="_blank">
+                                <i class="fa-brands fa-tiktok"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://www.linkedin.com/in/luisa-karelly-robles-hernandez-7b5b709b/" target="_blank">
+                                <i class="fa-brands fa-linkedin-in"></i>
                             </a>
                         </li>
                         <li class="list-inline-item">

@@ -24,7 +24,7 @@
                                             Servicios
                                         </a>
                                     </li>
-                                    <li>
+                                    <!-- li>
                                         <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#blog<?php else: ?>#blog<?php endif; ?>">
                                             Blog
                                         </a>
@@ -33,7 +33,7 @@
                                         <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#podcast<?php else: ?>#podcast<?php endif; ?>">
                                             Podcast
                                         </a>
-                                    </li>
+                                    </li -->
                                     <li>
                                         <a href="<?php echo esc_url( get_page_link( 7 ) ); ?>">
                                             Asesores
@@ -126,7 +126,7 @@
                         <div class="col">
                             <h1>Chihuahua</h1>
                             <ul class="list-unstyled info">
-                                <li>
+                                <!-- li>
                                     <a href="#">
                                         <i class="fa-solid fa-location-pin"></i>
                                     </a>
@@ -134,7 +134,7 @@
                                         Av. de la Empresa<br>
                                         Vistas del Sol, Chihuahua, Chih.
                                     </address>
-                                </li>
+                                </li -->
                                 <li>
                                     <a href="tel:+526143970559">
                                         <i class="fa-solid fa-phone"></i>
