@@ -169,7 +169,7 @@
         </div>
     </section>
 
-    <!-- section id="podcast" class="blog">
+    <section id="podcast" class="blog">
         <div class="container">
             <div class="row mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">
                 <div class="col">
@@ -232,7 +232,7 @@
                 </div>
             </div>
         </div>
-    </section -->
+    </section>
 
     <section class="descanso-alt">
         <div class="container">
@@ -255,7 +255,7 @@
         </div>
     </section>
 
-    <!-- section id="blog" class="blog">
+    <section id="blog" class="blog">
         <div class="container">
             <div class="row mb-4" data-aos="fade-up" data-aos-duration="1000">
                 <div class="col">
@@ -321,7 +321,7 @@
                 </div>
             </div>
         </div>
-    </section -->
+    </section>
 
     <section class="descanso-alt-2">
         <div class="container">
