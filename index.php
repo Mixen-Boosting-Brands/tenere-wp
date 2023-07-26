@@ -169,7 +169,7 @@
         </div>
     </section>
 
-    <section id="podcast" class="blog">
+    <!-- section id="podcast" class="blog">
         <div class="container">
             <div class="row mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">
                 <div class="col">
@@ -232,7 +232,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section -->
 
     <section class="descanso-alt">
         <div class="container">
@@ -288,7 +288,7 @@
                                 <h1><?php the_title(); ?></h1>
                             </a>
                             <p class="text-small text-uppercase">
-                            <?php echo get_the_date('j F, Y'); ?>
+                                <?php echo get_the_date('j F, Y'); ?>
                             </p>
                             <p class="text-small">
                                 <?php html5wp_excerpt('html5wp_blog'); ?>
