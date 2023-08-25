@@ -1,0 +1,30 @@
+.carrusel-servicios {
+    min-height: 100vh;
+
+    .container-fluid {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    h1 {
+        @include font-size(1.6rem);
+    }
+
+    .contenedor-info {
+        padding: 60px;
+        border-bottom-right-radius: 50px;
+        box-shadow: 5px 5px 10px 0px rgba(133,133,133,0.75);
+        -webkit-box-shadow: 5px 5px 10px 0px rgba(133,133,133,0.75);
+        -moz-box-shadow: 5px 5px 10px 0px rgba(133,133,133,0.75);
+    }
+
+    .contenedor-blanco {
+        background-color: $secondary;
+        color: $text-blue;
+    }
+
+    .contenedor-azul {
+        background-color: $primary;
+        color: $text-white;
+    }
+}
