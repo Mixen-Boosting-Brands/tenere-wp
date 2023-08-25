@@ -23,7 +23,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-6 text-center">
+                                    <div class="col-lg-6 my-auto text-center">
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/gastos-medicos.png" alt="" class="img-fluid">
                                     </div>
                                 </div>
@@ -45,7 +45,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-6 text-center">
+                                    <div class="col-lg-6 my-auto text-center">
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/gastos-medicos.png" alt="" class="img-fluid">
                                     </div>
                                 </div>
@@ -67,7 +67,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-6 text-center">
+                                    <div class="col-lg-6 my-auto text-center">
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/gastos-medicos.png" alt="" class="img-fluid">
                                     </div>
                                 </div>
