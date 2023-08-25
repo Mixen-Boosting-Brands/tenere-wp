@@ -149,6 +149,13 @@
     }
 
     .carrusel-servicios {
+        .contenedor-info {
+            border-bottom-right-radius: 50px;
+            box-shadow: 5px 5px 10px 0px rgba(133,133,133,0.75);
+            -webkit-box-shadow: 5px 5px 10px 0px rgba(133,133,133,0.75);
+            -moz-box-shadow: 5px 5px 10px 0px rgba(133,133,133,0.75);
+        }
+
         .gastos-medicos-item {
             background: linear-gradient(180deg, #F2F7FD 50%, #1062A9 50%);
         }
