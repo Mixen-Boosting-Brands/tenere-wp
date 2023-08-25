@@ -4,6 +4,11 @@
     .container-fluid {
         padding-left: 0;
         padding-right: 0;
+        min-height: inherit;
+
+        .row {
+            min-height: inherit;
+        }
     }
 
     h1 {
@@ -26,5 +31,9 @@
     .contenedor-azul {
         background-color: $primary;
         color: $text-white;
+    }
+
+    .gastos-medicos {
+
     }
 }
