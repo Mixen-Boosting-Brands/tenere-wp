@@ -11,6 +11,18 @@
         }
     }
 
+    #carrusel-servicios {
+        min-height: inherit;
+
+        .carousel-inner {
+            min-height: inherit;
+
+            .carousel-item {
+                min-height: inherit;
+            }
+        }
+    }
+
     h1 {
         @include font-size(1.6rem);
     }
