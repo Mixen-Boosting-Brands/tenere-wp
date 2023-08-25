@@ -47,6 +47,7 @@
 
     .vida-item {
         background-color: #8BBFDB;
+        @include background('../images/servicios/personas/bg-vida.png', center, cover);
     }
 
     .invalidez-item {
@@ -59,6 +60,7 @@
 
     .retiro-item {
         background-color: #86B5DB;
+        @include background('../images/servicios/personas/bg-retiro.png', center, cover);
     }
 
     .ahorros-item {
@@ -67,6 +69,7 @@
 
     .hogar-item {
         background-color: #224373;
+        @include background('../images/servicios/personas/bg-hogar.png', center, cover);
     }
 
     .inversion-item {
