@@ -12,7 +12,7 @@
                                         <div class="contenedor-info contenedor-blanco">
                                             <div class="row">
                                                 <div class="col-4 text-center my-auto">
-                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-gastos-medicos.png" alt="" class="img-fluid">
+                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-gastos-medicos-dark.png" alt="" class="img-fluid">
                                                 </div>
                                                 <div class="col-8 my-auto">
                                                     <h1>Gastos médicos</h1>
