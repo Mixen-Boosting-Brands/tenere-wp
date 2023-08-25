@@ -4,7 +4,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
-                    <div id="carrusel-servicios" class="carousel slide">
+                    <div id="carrusel-servicios" class="carousel carousel-dark slide">
                         <div class="carousel-inner">
                             <div class="carousel-item active gastos-medicos-item">
                                 <div class="row">
