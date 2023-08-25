@@ -6,7 +6,7 @@
                 <div class="col-12">
                     <div id="carrusel-servicios" class="carousel slide">
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item active gastos-medicos-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto">
                                         <div class="contenedor-info contenedor-blanco">
