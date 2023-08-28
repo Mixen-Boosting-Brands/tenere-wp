@@ -9,7 +9,7 @@
                             <div class="carousel-item active gastos-medicos-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info contenedor-blanco">
+                                        <div class="contenedor-info-1 contenedor-blanco">
                                             <div class="row">
                                                 <div class="col-4 text-center my-auto">
                                                     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-gastos-medicos-dark.png" alt="" class="img-fluid">
@@ -31,7 +31,7 @@
                             <div class="carousel-item vida-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info contenedor-blanco">
+                                        <div class="contenedor-info-1 contenedor-blanco">
                                             <div class="row">
                                                 <div class="col-4 text-center my-auto">
                                                     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-vida-dark.png" alt="" class="img-fluid">
@@ -53,7 +53,7 @@
                             <div class="carousel-item invalidez-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info contenedor-azul">
+                                        <div class="contenedor-info-1 contenedor-azul">
                                             <div class="row">
                                                 <div class="col-4 text-center my-auto">
                                                     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-invalidez.png" alt="" class="img-fluid">
@@ -75,7 +75,7 @@
                             <div class="carousel-item educacion-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info contenedor-azul">
+                                        <div class="contenedor-info-1 contenedor-azul">
                                             <div class="row">
                                                 <div class="col-4 text-center my-auto">
                                                     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-educacion.png" alt="" class="img-fluid">
@@ -97,7 +97,7 @@
                             <div class="carousel-item retiro-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info contenedor-blanco">
+                                        <div class="contenedor-info-1 contenedor-blanco">
                                             <div class="row">
                                                 <div class="col-4 text-center my-auto">
                                                     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-retiro-dark.png" alt="" class="img-fluid">
@@ -119,7 +119,7 @@
                             <div class="carousel-item ahorros-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info contenedor-azul">
+                                        <div class="contenedor-info-1 contenedor-azul">
                                             <div class="row">
                                                 <div class="col-4 text-center my-auto">
                                                     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-ahorros.png" alt="" class="img-fluid">
@@ -141,7 +141,7 @@
                             <div class="carousel-item hogar-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info contenedor-blanco">
+                                        <div class="contenedor-info-1 contenedor-blanco">
                                             <div class="row">
                                                 <div class="col-4 text-center my-auto">
                                                     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-hogar-dark.png" alt="" class="img-fluid">
@@ -163,7 +163,7 @@
                             <div class="carousel-item inversion-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info contenedor-azul">
+                                        <div class="contenedor-info-1 contenedor-azul">
                                             <div class="row">
                                                 <div class="col-4 text-center my-auto">
                                                     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/personas/ico-inversion.png" alt="" class="img-fluid">

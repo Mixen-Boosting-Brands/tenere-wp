@@ -1,91 +1,109 @@
 <?php get_header(); ?>
 
-	<section id="servicios" class="descanso-alt">
-        <div class="container">
+    <section class="carrusel-servicios">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-3 mb-lg-0">
-                    <div class="card" data-aos="fade-up" data-aos-duration="1000">
-                        <div id="icono-hombre-clave" class="icono"> 
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-hombre-clave.png" alt="" class="img-fluid">
+                <div class="col-12">
+                    <div id="carrusel-servicios" class="carousel carousel-dark slide">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active gastos-medicos-item">
+                                <div class="row">
+                                    <div class="col-lg-6 my-auto text-center">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/hombre-clace.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class="col-lg-6 my-auto">
+                                        <div class="contenedor-info-2 contenedor-blanco">
+                                            <div class="row">
+                                                <div class="col-4 text-center my-auto">
+                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-hombre-clave.png" alt="" class="img-fluid">
+                                                </div>
+                                                <div class="col-8 my-auto">
+                                                    <h1>Hombre clave</h1>
+                                                    <p>
+                                                        Protege la vida  de personas clave en tu negocio, crea un ahorro para su retiro y blínda su productividad ante una invalidez.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item vida-item">
+                                <div class="row">
+                                    <div class="col-lg-6 my-auto text-center">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/gastos-medicos-empresariales.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class="col-lg-6 my-auto">
+                                        <div class="contenedor-info-2 contenedor-blanco">
+                                            <div class="row">
+                                                <div class="col-4 text-center my-auto">
+                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-gastos-medicos-empresariales.png" alt="" class="img-fluid">
+                                                </div>
+                                                <div class="col-8 my-auto">
+                                                    <h1>Gastos médicos empresariales</h1>
+                                                    <p>
+                                                        Dale a tus empleados la mejor atención, disminuye tu rotación y protege a los tuyos.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item vida-item">
+                                <div class="row">
+                                    <div class="col-lg-6 my-auto text-center">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/vida-empresarial.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class="col-lg-6 my-auto">
+                                        <div class="contenedor-info-2 contenedor-blanco">
+                                            <div class="row">
+                                                <div class="col-4 text-center my-auto">
+                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-vida-empresarial.png" alt="" class="img-fluid">
+                                                </div>
+                                                <div class="col-8 my-auto">
+                                                    <h1>Vida empresarial</h1>
+                                                    <p>
+                                                        Tus colaboradores son importantes, dales la tranquilidad de que los estás protegiendo. 
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item vida-item">
+                                <div class="row">
+                                    <div class="col-lg-6 my-auto text-center">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/seguro-comercio.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class="col-lg-6 my-auto">
+                                        <div class="contenedor-info-2 contenedor-blanco">
+                                            <div class="row">
+                                                <div class="col-4 text-center my-auto">
+                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-seguro-comercio.png" alt="" class="img-fluid">
+                                                </div>
+                                                <div class="col-8 my-auto">
+                                                    <h1>Seguro comercio</h1>
+                                                    <p>
+                                                        No pongas en riesgo tu patrimonio blíndate ante cualquier accidente. ¡Incluye tu póliza de Responsabilidad Civil!
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="card-body">
-                            <h1>Hombre clave</h1>
-                            <p>
-                                Protege la vida  de personas clave en tu negocio, crea un ahorro para su retiro y blínda su productividad ante una invalidez.
-                            </p>
-                        </div>
-                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
-                            Cotizar
-                        </a>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carrusel-servicios" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carrusel-servicios" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
                     </div>
-                </div>
-
-                <div class="col-lg-3 mb-lg-0">
-                    <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="250">
-                        <div id="icono-gastos-medicos-empresariales" class="icono"> 
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-gastos-medicos-empresariales.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="card-body">
-                            <h1>Gastos médicos empresariales</h1>
-                            <p>
-                                Dale a tus empleados la mejor atención, disminuye tu rotación y protege a los tuyos.
-                            </p>
-                        </div>
-                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
-                            Cotizar
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 mb-lg-0">
-                    <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
-                        <div id="icono-vida-empresarial" class="icono"> 
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-vida-empresarial.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="card-body">
-                            <h1>Vida empresarial</h1>
-                            <p>
-                                Tus colaboradores son importantes, dales la tranquilidad de que los estás protegiendo. 
-                            </p>
-                        </div>
-                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
-                            Cotizar
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 mb-lg-0">
-                    <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="750">
-                        <div id="icono-seguro-comercial" class="icono"> 
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-seguro-comercio.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="card-body">
-                            <h1>Seguro comercio</h1>
-                            <p>
-                                No pongas en riesgo tu patrimonio blíndate ante cualquier accidente. ¡Incluye tu póliza de Responsabilidad Civil!
-                            </p>
-                        </div>
-                        <a href="https://forms.gle/4pznpkTJ2gwdmc9i7" class="btn btn-primary rounded-pill" target="_blank">
-                            Cotizar
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row banner">
-                <div class="col-lg-3 mb-4 mb-lg-0 my-auto">
-                    <figure>
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-sencillo.png" alt="" class="img-fluid" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">
-                    </figure>
-                </div>
-                <div class="col-lg-9 my-auto" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1250">
-                    <h6 class="text-uppercase">
-                        En Tenere
-                    </h6>
-                    <h1 class="text-uppercase">
-                        ¡Te ayudamos a crear<br>
-                        estrategias fiscales, mientras<br>
-                        aumentas tu patrimonio!
-                    </h1>
                 </div>
             </div>
         </div>
