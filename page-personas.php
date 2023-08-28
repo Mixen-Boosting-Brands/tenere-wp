@@ -46,7 +46,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-6 my-auto text-center">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/vida.png" alt="" class="img-fluid">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/vida.png" alt="" class="img-fluid d-lg-none">
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-6 my-auto text-center">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/retiro.png" alt="" class="img-fluid">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/retiro.png" alt="" class="img-fluid d-lg-none">
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +156,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-6 my-auto text-center">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/hogar.png" alt="" class="img-fluid">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/hogar.png" alt="" class="img-fluid d-lg-none">
                                     </div>
                                 </div>
                             </div>
