@@ -149,6 +149,12 @@
     }
 
     .carrusel-servicios {
+        min-height: 100vh;
+
+        #carrusel-servicios {
+            min-height: 100vh;
+        }
+
         .contenedor-info-1,
         .contenedor-info-2 {
             box-shadow: 5px 5px 10px 0px rgba(133,133,133,0.75);
