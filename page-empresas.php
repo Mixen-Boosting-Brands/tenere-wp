@@ -9,19 +9,19 @@
                             <div class="carousel-item active gastos-medicos-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto text-center">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/hombre-clace.png" alt="" class="img-fluid">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/hombre-clave.png" alt="" class="img-fluid">
                                     </div>
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info-2 contenedor-blanco">
+                                        <div class="contenedor-info-2 contenedor-azul">
                                             <div class="row">
-                                                <div class="col-4 text-center my-auto">
-                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-hombre-clave.png" alt="" class="img-fluid">
-                                                </div>
                                                 <div class="col-8 my-auto">
                                                     <h1>Hombre clave</h1>
                                                     <p>
                                                         Protege la vida  de personas clave en tu negocio, crea un ahorro para su retiro y blínda su productividad ante una invalidez.
                                                     </p>
+                                                </div>
+                                                <div class="col-4 text-center my-auto">
+                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-hombre-clave.png" alt="" class="img-fluid">
                                                 </div>
                                             </div>
                                         </div>
@@ -36,14 +36,14 @@
                                     <div class="col-lg-6 my-auto">
                                         <div class="contenedor-info-2 contenedor-blanco">
                                             <div class="row">
-                                                <div class="col-4 text-center my-auto">
-                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-gastos-medicos-empresariales.png" alt="" class="img-fluid">
-                                                </div>
                                                 <div class="col-8 my-auto">
                                                     <h1>Gastos médicos empresariales</h1>
                                                     <p>
                                                         Dale a tus empleados la mejor atención, disminuye tu rotación y protege a los tuyos.
                                                     </p>
+                                                </div>
+                                                <div class="col-4 text-center my-auto">
+                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-gastos-medicos-empresariales.png" alt="" class="img-fluid">
                                                 </div>
                                             </div>
                                         </div>
@@ -58,14 +58,14 @@
                                     <div class="col-lg-6 my-auto">
                                         <div class="contenedor-info-2 contenedor-blanco">
                                             <div class="row">
-                                                <div class="col-4 text-center my-auto">
-                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-vida-empresarial.png" alt="" class="img-fluid">
-                                                </div>
                                                 <div class="col-8 my-auto">
                                                     <h1>Vida empresarial</h1>
                                                     <p>
                                                         Tus colaboradores son importantes, dales la tranquilidad de que los estás protegiendo. 
                                                     </p>
+                                                </div>
+                                                <div class="col-4 text-center my-auto">
+                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-vida-empresarial.png" alt="" class="img-fluid">
                                                 </div>
                                             </div>
                                         </div>
@@ -80,14 +80,14 @@
                                     <div class="col-lg-6 my-auto">
                                         <div class="contenedor-info-2 contenedor-blanco">
                                             <div class="row">
-                                                <div class="col-4 text-center my-auto">
-                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-seguro-comercio.png" alt="" class="img-fluid">
-                                                </div>
                                                 <div class="col-8 my-auto">
                                                     <h1>Seguro comercio</h1>
                                                     <p>
                                                         No pongas en riesgo tu patrimonio blíndate ante cualquier accidente. ¡Incluye tu póliza de Responsabilidad Civil!
                                                     </p>
+                                                </div>
+                                                <div class="col-4 text-center my-auto">
+                                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/iconos/servicios/empresas/ico-seguro-comercio.png" alt="" class="img-fluid">
                                                 </div>
                                             </div>
                                         </div>
