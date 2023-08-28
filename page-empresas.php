@@ -34,7 +34,7 @@
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/gastos-medicos-empresariales.png" alt="" class="img-fluid">
                                     </div>
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info-2 contenedor-blanco">
+                                        <div class="contenedor-info-2 contenedor-azul">
                                             <div class="row">
                                                 <div class="col-8 my-auto">
                                                     <h1>Gastos médicos empresariales</h1>
@@ -56,7 +56,7 @@
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/vida-empresarial.png" alt="" class="img-fluid">
                                     </div>
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info-2 contenedor-blanco">
+                                        <div class="contenedor-info-2 contenedor-azul">
                                             <div class="row">
                                                 <div class="col-8 my-auto">
                                                     <h1>Vida empresarial</h1>
@@ -78,7 +78,7 @@
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/seguro-comercio.png" alt="" class="img-fluid">
                                     </div>
                                     <div class="col-lg-6 my-auto">
-                                        <div class="contenedor-info-2 contenedor-blanco">
+                                        <div class="contenedor-info-2 contenedor-azul">
                                             <div class="row">
                                                 <div class="col-8 my-auto">
                                                     <h1>Seguro comercio</h1>
