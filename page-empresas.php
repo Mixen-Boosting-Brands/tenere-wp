@@ -6,7 +6,7 @@
                 <div class="col-12">
                     <div id="carrusel-servicios" class="carousel carousel-dark slide">
                         <div class="carousel-inner">
-                            <div class="carousel-item active gastos-medicos-item">
+                            <div class="carousel-item active hombre-clave-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto text-center">
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/hombre-clave.png" alt="" class="img-fluid">
@@ -28,7 +28,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="carousel-item vida-item">
+                            <div class="carousel-item gastos-medicos-empresariales-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto text-center">
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/gastos-medicos-empresariales.png" alt="" class="img-fluid">
@@ -50,7 +50,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="carousel-item vida-item">
+                            <div class="carousel-item vida-empresarial-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto text-center">
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/vida-empresarial.png" alt="" class="img-fluid">
@@ -72,7 +72,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="carousel-item vida-item">
+                            <div class="carousel-item seguro-comercio-item">
                                 <div class="row">
                                     <div class="col-lg-6 my-auto text-center">
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/empresas/seguro-comercio.png" alt="" class="img-fluid">
