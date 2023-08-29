@@ -173,15 +173,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-6 my-auto">
-                    <h2 class="text-uppercase">
+                    <h2 class="text-uppercase" data-aos="fade-up" data-aos-duration="1000">
                         <span>Cobertura para automóviles:</span> Cobertura confiable para tu vehículo
                     </h2>
-                    <p>Cuando se trata de proteger tu vehículo y asegurar tu tranquilidad, contar con una póliza de seguro de autos confiable es fundamental. Con la amplia gama de opciones disponibles en el mercado, es importante comprender los diferentes tipos de coberturas y encontrar aquella que se ajuste perfectamente a tus necesidades.</p>
-                    <p>Las pólizas de seguro para autos son una parte esencial de la vida de cualquier conductor. No solo te brindan protección financiera en caso de un accidente, sino que también te dan la tranquilidad de saber que estás cubierto en caso de cualquier eventualidad. Aunque puede ser tentador buscar la póliza más barata disponible, es importante recordar que no todas las pólizas son iguales, y que puede haber diferencias significativas en la calidad y la cantidad de cobertura que ofrecen.</p>
-                    <p>En Tenere, lo entendemos y nos enorgullece ofrecerte las mejores soluciones en seguros de autos a los precios más competitivos.</p>
+                    <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">Cuando se trata de proteger tu vehículo y asegurar tu tranquilidad, contar con una póliza de seguro de autos confiable es fundamental. Con la amplia gama de opciones disponibles en el mercado, es importante comprender los diferentes tipos de coberturas y encontrar aquella que se ajuste perfectamente a tus necesidades.</p>
+                    <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">Las pólizas de seguro para autos son una parte esencial de la vida de cualquier conductor. No solo te brindan protección financiera en caso de un accidente, sino que también te dan la tranquilidad de saber que estás cubierto en caso de cualquier eventualidad. Aunque puede ser tentador buscar la póliza más barata disponible, es importante recordar que no todas las pólizas son iguales, y que puede haber diferencias significativas en la calidad y la cantidad de cobertura que ofrecen.</p>
+                    <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1500">En Tenere, lo entendemos y nos enorgullece ofrecerte las mejores soluciones en seguros de autos a los precios más competitivos.</p>
                 </div>
                 <div class="col-lg-6 offset-lg-6 text-center">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTPRpkGKhiFPL9S18IOGGN4gYZpkx7IU8m--Tt5wrUY4JnMQ/viewform" target="_blank">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTPRpkGKhiFPL9S18IOGGN4gYZpkx7IU8m--Tt5wrUY4JnMQ/viewform" target="_blank" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="2000">
                         <h4>Contáctanos hoy mismo para recibir asesoría</h4>
                     </a>
                 </div>
@@ -193,12 +193,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2 class="text-uppercase">
+                    <h2 class="text-uppercase" data-aos="fade-up" data-aos-duration="1000">
                         <span>Cobertura para flotillas:</span> Protege tu inversión y tu negocio
                     </h2>
-                    <p>Las flotillas de autos son un activo fundamental para muchas empresas, ya que desempeñan un papel crucial en el funcionamiento diario de las operaciones comerciales. Estos vehículos no solo transportan empleados y productos, sino que también representan una inversión significativa. Es por eso que asegurar adecuadamente una flotilla de autos es esencial para proteger tanto los activos de la empresa como los intereses financieros. Las pólizas de seguro para flotillas de autos están diseñadas específicamente para cubrir las necesidades de las empresas, ofreciendo una protección integral en caso de accidentes, daños o robos.</p>
-                    <p>En nuestro compromiso de brindarte el mejor servicio, contamos con un equipo de agentes de seguros especializados en seguros para flotillas de autos ligeros y de carga. Ellos estarán encantados de trabajar contigo, evaluar tus necesidades específicas y ofrecerte una póliza personalizada que se ajuste a tu presupuesto y requerimiento.</p>
-                    <p>Contáctanos hoy mismo para recibir asesoría.</p>
+                    <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">Las flotillas de autos son un activo fundamental para muchas empresas, ya que desempeñan un papel crucial en el funcionamiento diario de las operaciones comerciales. Estos vehículos no solo transportan empleados y productos, sino que también representan una inversión significativa. Es por eso que asegurar adecuadamente una flotilla de autos es esencial para proteger tanto los activos de la empresa como los intereses financieros. Las pólizas de seguro para flotillas de autos están diseñadas específicamente para cubrir las necesidades de las empresas, ofreciendo una protección integral en caso de accidentes, daños o robos.</p>
+                    <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">En nuestro compromiso de brindarte el mejor servicio, contamos con un equipo de agentes de seguros especializados en seguros para flotillas de autos ligeros y de carga. Ellos estarán encantados de trabajar contigo, evaluar tus necesidades específicas y ofrecerte una póliza personalizada que se ajuste a tu presupuesto y requerimiento.</p>
+                    <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1500">Contáctanos hoy mismo para recibir asesoría.</p>
                 </div>
             </div>
         </div>
