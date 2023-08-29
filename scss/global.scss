@@ -459,6 +459,16 @@ header#navbar {
     }
 }
 
+#cobertura-automoviles {
+    @include background('../images/bg-cobertura-automoviles.png', right, cover);
+
+    h1 {
+        span {
+            font-family: 'circular_stdbook', sans-serif;
+        }
+    }
+}
+
 .blog,
 .beneficios-asesores {
     @include background('../images/bg-azul.png', center, cover);
