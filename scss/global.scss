@@ -460,7 +460,7 @@ header#navbar {
 }
 
 #cobertura-automoviles {
-    @include background('../images/bg-cobertura-automoviles.png', center, cover);
+    @include background('../images/bg-cobertura-automoviles.png', right, cover);
     padding: 100px 0;
 
     h1,
