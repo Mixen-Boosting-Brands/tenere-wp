@@ -463,7 +463,12 @@ header#navbar {
     @include background('../images/bg-cobertura-automoviles.png', center, cover);
     padding: 100px 0;
 
-    h1 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         span {
             font-family: 'circular_stdbook', sans-serif;
         }

@@ -173,9 +173,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-6 my-auto">
-                    <h1 class="text-uppercase">
+                    <h2 class="text-uppercase">
                         <span>Cobertura para automóviles:</span> Cobertura confiable para tu vehículo
-                    </h1>
+                    </h2>
                     <p>Cuando se trata de proteger tu vehículo y asegurar tu tranquilidad, contar con una póliza de seguro de autos confiable es fundamental. Con la amplia gama de opciones disponibles en el mercado, es importante comprender los diferentes tipos de coberturas y encontrar aquella que se ajuste perfectamente a tus necesidades.</p>
  
                     <p>Las pólizas de seguro para autos son una parte esencial de la vida de cualquier conductor. No solo te brindan protección financiera en caso de un accidente, sino que también te dan la tranquilidad de saber que estás cubierto en caso de cualquier eventualidad. Aunque puede ser tentador buscar la póliza más barata disponible, es importante recordar que no todas las pólizas son iguales, y que puede haber diferencias significativas en la calidad y la cantidad de cobertura que ofrecen.</p>
@@ -184,7 +184,7 @@
                 </div>
                 <div class="col-lg-6 offset-lg-6 text-center">
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTPRpkGKhiFPL9S18IOGGN4gYZpkx7IU8m--Tt5wrUY4JnMQ/viewform" target="_blank">
-                        <h2>Contáctanos hoy mismo para recibir asesoría</h2>
+                        <h3>Contáctanos hoy mismo para recibir asesoría</h3>
                     </a>
                 </div>
             </div>
