@@ -459,7 +459,8 @@ header#navbar {
     }
 }
 
-#cobertura-automoviles {
+#cobertura-automoviles,
+#cobertura-flotillas {
     @include background('../images/bg-cobertura-automoviles.png', right, cover);
     padding: 100px 0;
 
@@ -473,6 +474,15 @@ header#navbar {
             font-family: 'circular_stdbook', sans-serif;
         }
     }
+}
+
+#cobertura-automoviles {
+    @include background('../images/bg-cobertura-automoviles.png', right, cover);
+}
+
+#cobertura-flotillas {
+    @include background('../images/bg-cobertura-flotillas.png', left, cover);
+    color: $text-white;
 }
 
 .blog,
