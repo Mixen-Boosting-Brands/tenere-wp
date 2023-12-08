@@ -183,7 +183,7 @@
                                 </div>
                             </div>
                             <div class="carousel-item">
-                                <div class="w-100 h-100 d-flex align-items-center">
+                                <div class="w-100 d-flex align-items-center" style="height: 100vh;">
                                     <section id="cobertura-automoviles">
                                         <div class="container">
                                             <div class="row">
