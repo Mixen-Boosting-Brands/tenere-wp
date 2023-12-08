@@ -4,7 +4,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
-                    <div id="carrusel-servicios" class="carousel carousel-dark slide">
+                    <div id="carrusel-servicios" class="carousel carousel-dark slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active hombre-clave-item">
                                 <div class="row">

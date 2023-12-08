@@ -4,7 +4,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
-                    <div id="carrusel-servicios" class="carousel carousel-dark slide">
+                    <div id="carrusel-servicios" class="carousel carousel-dark slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active gastos-medicos-item">
                                 <div class="row">
@@ -181,6 +181,27 @@
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/servicios/personas/inversion.png" alt="" class="img-fluid">
                                     </div>
                                 </div>
+                            </div>
+                            <div class="carousel-item">
+                                <section id="cobertura-automoviles">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-lg-6 offset-lg-6 my-auto">
+                                                <h2 class="text-uppercase" data-aos="fade-up" data-aos-duration="1000">
+                                                    <span>Cobertura para automóviles:</span> Cobertura confiable para tu vehículo
+                                                </h2>
+                                                <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">Cuando se trata de proteger tu vehículo y asegurar tu tranquilidad, contar con una póliza de seguro de autos confiable es fundamental. Con la amplia gama de opciones disponibles en el mercado, es importante comprender los diferentes tipos de coberturas y encontrar aquella que se ajuste perfectamente a tus necesidades.</p>
+                                                <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">Las pólizas de seguro para autos son una parte esencial de la vida de cualquier conductor. No solo te brindan protección financiera en caso de un accidente, sino que también te dan la tranquilidad de saber que estás cubierto en caso de cualquier eventualidad. Aunque puede ser tentador buscar la póliza más barata disponible, es importante recordar que no todas las pólizas son iguales, y que puede haber diferencias significativas en la calidad y la cantidad de cobertura que ofrecen.</p>
+                                                <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1500">En Tenere, lo entendemos y nos enorgullece ofrecerte las mejores soluciones en seguros de autos a los precios más competitivos.</p>
+                                            </div>
+                                            <div class="col-lg-6 offset-lg-6 text-center">
+                                                <a href="https://wa.me/526143970559?text=Hola%20Tenere,%20necesito%20informaci%C3%B3n." target="_blank" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="2000">
+                                                    <h4>Contáctanos hoy mismo para recibir asesoría</h4>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carrusel-servicios" data-bs-slide="prev">
