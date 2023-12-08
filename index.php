@@ -14,9 +14,9 @@
                                         <div class="col-lg-6 offset-lg-6 my-auto">
                                             <h1 class="display-1">¡Bienvenidos a Tenere!</h1>
                                             <h2 class="display-2">¡Bienvenidos a Tenere!</h2>
-                                            <p>Mi nombre es Karelly Robles y me encantaría ser tu asesora de seguros.</p>
+                                            <p>Somos un equipo de profesionales en estrategias de vida y nos encantaría ser tus asesores.</p>
                                             <p>Este proyecto nació con el propósito de ayudarte a lograr tus metas, gestionar tus riesgos y proteger tu patrimonio.</p>
-                                            <p>Te acompañaremos durante todas las etapas de tu vida impulsando tu crecimiento y priorizando tus necesidades.</p>
+                                            <p>Te acompañaremos durante todas las etapas de tu vida impulsando tu crecimiento y priorizando tus necesidades. Sabemos que puedes tener algunas dudas o te parezca complicado. Sin embargo, estamos aquí para hacerlo más sencillo para ti.</p>
                                         </div>
                                     </div>
                                 </div>
