@@ -64,7 +64,7 @@
                                     <div>
                                         <h1 class="display-1">Nosotros cuidamos de ti y tu <span id="familia">familia</span>.</h1>
                                         <div class="text-center">
-                                            <a href="https://calendly.com/teneremx" class="btn btn-lg btn-primary mt-5 mb-4">
+                                            <a href="https://wa.me/526143970559?text=Hola%20Tenere,%20necesito%20informaci%C3%B3n." class="btn btn-lg btn-primary mt-5 mb-4">
                                                 ¡Agenda una cita hoy!
                                             </a>
                                             <p>
