@@ -58,7 +58,7 @@
                     <p>Queremos saber un poco más de ti para poderte ayudar. Un miembro del equipo TENERE se comunicará contigo para agendar una cita y aclarar todas tus dudas.</p>
                     <p class="text-uppercase">¡Bienvenido a la familia Tenere!</p>
                     <a
-                        href="https://docs.google.com/forms/d/e/1FAIpQLSdTPRpkGKhiFPL9S18IOGGN4gYZpkx7IU8m--Tt5wrUY4JnMQ/viewform"
+                        href="https://wa.me/526143970559?text=Hola%20Tenere,%20necesito%20informaci%C3%B3n."
                         class="btn btn-primary btn-lg d-block"
                         target="_blank"
                     >
