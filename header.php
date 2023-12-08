@@ -133,7 +133,7 @@
                     <a id="mburger" class="d-lg-none" href="javascript:void(0)">
                         <i class="fas fa-bars"></i>
                     </a>
-                    <a href="https://calendly.com/teneremx" class="btn btn-primary d-none d-lg-block" target="_blank">
+                    <a href="https://wa.me/526143970559?text=Hola%20Tenere,%20necesito%20informaci%C3%B3n." class="btn btn-primary d-none d-lg-block" target="_blank">
                         <i class="fa-solid fa-calendar-days"></i> 
                         Agenda una cita
                     </a>
