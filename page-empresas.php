@@ -94,6 +94,24 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="carousel-item seguro-comercio-item">
+                                <div class="w-100 d-flex align-items-center" style="height: 100vh;">
+                                    <section id="cobertura-flotillas">
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <h2 class="text-uppercase" data-aos="fade-up" data-aos-duration="1000">
+                                                        <span>Cobertura para flotillas:</span> Protege tu inversión y tu negocio
+                                                    </h2>
+                                                    <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">Las flotillas de autos son un activo fundamental para muchas empresas, ya que desempeñan un papel crucial en el funcionamiento diario de las operaciones comerciales. Estos vehículos no solo transportan empleados y productos, sino que también representan una inversión significativa. Es por eso que asegurar adecuadamente una flotilla de autos es esencial para proteger tanto los activos de la empresa como los intereses financieros. Las pólizas de seguro para flotillas de autos están diseñadas específicamente para cubrir las necesidades de las empresas, ofreciendo una protección integral en caso de accidentes, daños o robos.</p>
+                                                    <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">En nuestro compromiso de brindarte el mejor servicio, contamos con un equipo de agentes de seguros especializados en seguros para flotillas de autos ligeros y de carga. Ellos estarán encantados de trabajar contigo, evaluar tus necesidades específicas y ofrecerte una póliza personalizada que se ajuste a tu presupuesto y requerimiento.</p>
+                                                    <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1500">Contáctanos hoy mismo para recibir asesoría.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                            </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carrusel-servicios" data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>

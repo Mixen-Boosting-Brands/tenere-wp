@@ -169,7 +169,7 @@
         </div>
     </section>
 
-    <section id="cobertura-automoviles">
+    <!-- section id="cobertura-automoviles">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-6 my-auto">
@@ -187,9 +187,9 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section -->
     
-    <section id="cobertura-flotillas">
+    <!-- section id="cobertura-flotillas">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -202,7 +202,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section -->
 
     <!-- section id="podcast" class="blog">
         <div class="container">
