@@ -26,8 +26,8 @@
                 </div>
 
                 <!-- Slide 2 -->
-                <div class="carousel-item carousel-item-2">
-                    <!-- div class="logo-sencillo"></div -->
+                <!-- div class="carousel-item carousel-item-2">
+                    <div class="logo-sencillo"></div>
                     <h1 class="aliados-tenere">Aliados Tenere</h1>
                     <div class="container-fluid">
                         <div class="row g-0">
@@ -47,7 +47,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div -->
 
                 <!-- Slide 3 -->
                 <div class="carousel-item carousel-item-3">
