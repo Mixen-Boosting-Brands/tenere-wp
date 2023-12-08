@@ -182,7 +182,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item d-flex align-items-center">
                                 <section id="cobertura-automoviles">
                                     <div class="container">
                                         <div class="row">
