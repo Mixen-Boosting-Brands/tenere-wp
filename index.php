@@ -101,7 +101,7 @@
                 <div class="col-lg-6 my-auto" data-aos="fade-up" data-aos-duration="1000">
                     <h6 class="text-uppercase">Quiénes Somos</h6>
                     <h1 class="text-uppercase">Acerca de Tenere</h1>
-                    <p>Ayudamos a las personas a proteger lo que más atesoran por medio de estrategias de aseguranza confiables e inteligentes, además, atraemos y desarrollamos talento para que más personas puedan hacer lo que hacemos en Tenere con tanta pasión.</p>
+                    <p>Tenere es un proyecto fundado por Karelly Robles, con la única misión de ayudar a personas y empresas a proteger lo que más atesoran por medio de estrategias de aseguranza confiables e inteligentes. Tenemos la firme convicción de que una de las decisiones más sabias que puedes tomar es asegurar aquello que tanto esfuerzo te ha costado. Estamos aquí para ayudarte a lograrlo.</p>
                 </div>
                 <div class="col-lg-6 my-auto">
                     <figure>
@@ -161,7 +161,7 @@
                     </h1>
                 </div>
                 <div class="col-lg-4 my-auto text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
-                    <a href="tel:+526143970559" class="btn btn-info btn-lg text-uppercase display-1">
+                    <a href="https://wa.me/526143970559?text=Hola%20Tenere,%20necesito%20informaci%C3%B3n." class="btn btn-info btn-lg text-uppercase display-1">
 						¡Contáctanos!
 					</a>
                 </div>
@@ -181,7 +181,7 @@
                     <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1500">En Tenere, lo entendemos y nos enorgullece ofrecerte las mejores soluciones en seguros de autos a los precios más competitivos.</p>
                 </div>
                 <div class="col-lg-6 offset-lg-6 text-center">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTPRpkGKhiFPL9S18IOGGN4gYZpkx7IU8m--Tt5wrUY4JnMQ/viewform" target="_blank" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="2000">
+                    <a href="https://wa.me/526143970559?text=Hola%20Tenere,%20necesito%20informaci%C3%B3n." target="_blank" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="2000">
                         <h4>Contáctanos hoy mismo para recibir asesoría</h4>
                     </a>
                 </div>
@@ -279,7 +279,7 @@
                         Únete a la familia Tenere.
                     </p>
                     <a 
-                        href="https://forms.gle/RqsWwsVatuo1RhET8"
+                        href="https://wa.me/526143970559?text=Hola%20Tenere,%20necesito%20informaci%C3%B3n."
                         class="btn btn-info btn-lg text-uppercase display-1"
                         target="_blank"
                     >

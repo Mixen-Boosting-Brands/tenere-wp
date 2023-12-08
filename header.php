@@ -65,7 +65,7 @@
                     </li>
                 </ul>
             </nav>
-            <a href="https://calendly.com/teneremx" class="btn btn-primary" id="btn-contacto">
+            <a href="https://wa.me/526143970559?text=Hola%20Tenere,%20necesito%20informaci%C3%B3n." class="btn btn-primary" id="btn-contacto">
 				<i class="fa-solid fa-calendar-days"></i> 
 				Agenda una cita
 			</a>
