@@ -10,32 +10,75 @@
                             <nav>
                                 <ul class="list-unstyled">
                                     <li>
-                                        <a href="<?php echo esc_url( home_url() ); ?>">
+                                        <a href="<?php echo esc_url(
+                                            home_url()
+                                        ); ?>">
                                             Inicio
                                         </a>
                                     </li>
                                     <li>
-                                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#nosotros<?php else: ?>#nosotros<?php endif; ?>">
+                                        <a <?php if (
+                                            is_home()
+                                        ): ?>class="anchor"<?php endif; ?> href="<?php if (
+     !is_home()
+ ):
+     echo esc_url(home_url()); ?>#nosotros<?php
+ else:
+      ?>#nosotros<?php
+ endif; ?>">
                                             Nosotros
                                         </a>
                                     </li>
                                     <li>
-                                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#nuestros-servicios<?php else: ?>#nuestros-servicios<?php endif; ?>">
+                                        <a <?php if (
+                                            is_home()
+                                        ): ?>class="anchor"<?php endif; ?> href="<?php if (
+     !is_home()
+ ):
+     echo esc_url(home_url()); ?>#nuestros-servicios<?php
+ else:
+      ?>#nuestros-servicios<?php
+ endif; ?>">
                                             Servicios
                                         </a>
                                     </li>
+                                    <li>
+                                        <a href="<?php echo esc_url(
+                                            home_url()
+                                        ); ?>/calculadora">
+                                            Calculadora
+                                        </a>
+                                    </li>
                                     <!-- li>
-                                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#blog<?php else: ?>#blog<?php endif; ?>">
+                                        <a <?php if (
+                                            is_home()
+                                        ): ?>class="anchor"<?php endif; ?> href="<?php if (
+     !is_home()
+ ):
+     echo esc_url(home_url()); ?>#blog<?php
+ else:
+      ?>#blog<?php
+ endif; ?>">
                                             Blog
                                         </a>
                                     </li>
                                     <li>
-                                        <a <?php if ( is_home() ): ?>class="anchor"<?php endif; ?> href="<?php if ( !is_home() ): ?><?php echo esc_url( home_url() ); ?>#podcast<?php else: ?>#podcast<?php endif; ?>">
+                                        <a <?php if (
+                                            is_home()
+                                        ): ?>class="anchor"<?php endif; ?> href="<?php if (
+     !is_home()
+ ):
+     echo esc_url(home_url()); ?>#podcast<?php
+ else:
+      ?>#podcast<?php
+ endif; ?>">
                                             Podcast
                                         </a>
                                     </li -->
                                     <li>
-                                        <a href="<?php echo esc_url( get_page_link( 7 ) ); ?>">
+                                        <a href="<?php echo esc_url(
+                                            get_page_link(7)
+                                        ); ?>">
                                             Asesores
                                         </a>
                                     </li>
@@ -45,7 +88,9 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="<?php echo esc_url( get_page_link( 3 ) ); ?>">
+                                        <a href="<?php echo esc_url(
+                                            get_page_link(3)
+                                        ); ?>">
                                             Política
                                         </a>
                                     </li>
@@ -67,7 +112,9 @@
                     <!-- Aquí se inyecta feedback a usuario vía Ajax -->
                     <!-- div id="form-messages"></div -->
                     <!-- /Aquí se inyecta feedback a usuario vía Ajax -->
-                    <!-- form data-aos="fade-up" data-aos-duration="1000" action="<?php echo esc_url( get_template_directory_uri() ); ?>/mailer.php" method="POST" class="row g-3 needs-validation contact-form mb-4 mb-lg-0" id="ajax-contact" novalidate>
+                    <!-- form data-aos="fade-up" data-aos-duration="1000" action="<?php echo esc_url(
+                        get_template_directory_uri()
+                    ); ?>/mailer.php" method="POST" class="row g-3 needs-validation contact-form mb-4 mb-lg-0" id="ajax-contact" novalidate>
                         <div class="row">
                             <div class="col-md-6 form-floating">
                                 <input type="text" class="form-control shadow-none" id="nombre" name="nombre" placeholder="Nombre*"
@@ -178,7 +225,9 @@
             <div class="row">
                 <div class="col text-center" data-aos="fade-in" data-aos-duration="1000" data-aos-delay="500">
                     <a href="#">
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo.webp" alt="" class="logo img-fluid">
+                        <img src="<?php echo esc_url(
+                            get_template_directory_uri()
+                        ); ?>/assets/images/logo.webp" alt="" class="logo img-fluid">
                     </a>
                 </div>
             </div>
@@ -191,6 +240,8 @@
 
 	<?php wp_footer(); ?>
 
-    <script src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/js/app.bundle.js"></script>
+    <script src="<?php echo esc_url(
+        get_template_directory_uri()
+    ); ?>/assets/js/app.bundle.js"></script>
 </body>
 </html>
